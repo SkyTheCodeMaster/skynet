@@ -1,0 +1,14 @@
+{
+  "https://pastebin.com/raw/6UV4qfNF":{
+    "path": "libraries/sha256.lua",
+    "folder": false
+  },
+  "https://pastebin.com/raw/GPzf9JSa":{
+    "path": "libraries/chacha20.lua",
+    "folder": false
+  },
+  "https://raw.githubusercontent.com/SkyTheCodeMaster/SkyDocs/main/src/main/misc/skyrtle.lua":{
+    "path": "libraries/skyrtle.lua",
+    "folder": false
+  }
+}
